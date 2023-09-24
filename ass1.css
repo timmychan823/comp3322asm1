@@ -230,6 +230,9 @@ body>header+article>section:nth-of-type(9){
 @media screen and (max-width: 500px) {
     body{
         width: 100%;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        max-width: 500px;
     }
     article{
         padding-left: 10px;
